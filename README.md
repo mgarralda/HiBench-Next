@@ -451,6 +451,28 @@ regeneration scripts for the four-case Scala/PySpark study on v2.5.0.
 
 **Author and maintainer:** Mariano Garralda-Barrio, PhD
 
+### Research preprint
+
+For the suite's design, experiment workflow and case analyses, cite the accompanying
+[SSRN preprint](https://ssrn.com/abstract=7628778):
+
+> Garralda-Barrio, M. (2026, October 16). *HiBench Next: A Heterogeneous Apache Spark Benchmark Suite with Integrated Experiment Management* [Preprint]. SSRN. https://doi.org/10.2139/ssrn.7628778
+
+```bibtex
+@article{garralda_barrio_hibench_next_preprint_2026,
+  author  = {Garralda-Barrio, Mariano},
+  title   = {{HiBench Next}: A Heterogeneous {Apache Spark} Benchmark Suite with Integrated Experiment Management},
+  journal = {SSRN},
+  year    = {2026},
+  month   = oct,
+  note    = {Preprint},
+  doi     = {10.2139/ssrn.7628778},
+  url     = {https://ssrn.com/abstract=7628778}
+}
+```
+
+### Software release
+
 If you use HiBench Next in research, please cite the archived **v2.5.0 software release**:
 
 > Garralda-Barrio, M. (2026). *HiBench Next: A Heterogeneous Benchmark Suite for Modern Apache Spark* (Version v2.5.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23400663
@@ -468,7 +490,8 @@ If you use HiBench Next in research, please cite the archived **v2.5.0 software 
 ```
 
 Machine-readable citation metadata is provided in [CITATION.cff](CITATION.cff).
-This DOI identifies the software release, not a research article or individual benchmark results.
+The Zenodo DOI identifies the software release; the SSRN DOI identifies the preprint.
+The experimental records are available separately in the [paper evidence archive](docs/paper-evidence/README.md).
 
 ### Version history and local evidence
 

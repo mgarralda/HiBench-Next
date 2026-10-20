@@ -37,6 +37,19 @@ repository-code: "https://github.com/mgarralda/HiBench-Next"
 
 license: Apache-2.0
 
+references:
+  - type: article
+    title: "HiBench Next: A Heterogeneous Apache Spark Benchmark Suite with Integrated Experiment Management"
+    authors:
+      - family-names: Garralda-Barrio
+        given-names: Mariano
+    year: 2026
+    date-published: "2026-10-16"
+    journal: SSRN
+    notes: Preprint
+    doi: "10.2139/ssrn.7628778"
+    url: "https://ssrn.com/abstract=7628778"
+
 keywords:
   - HiBench
   - Apache Spark
